@@ -1,2 +1,2 @@
 # Documentação - MyLib
-Documentos para o sistema da disciplina APS/Web
+Documentos para o sistema das disciplinas APS/DSW
