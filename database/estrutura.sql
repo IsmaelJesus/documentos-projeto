@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: 127.0.0.1
--- Generation Time: 10-Nov-2017 às 17:30
+-- Generation Time: 10-Nov-2017 às 18:42
 -- Versão do servidor: 5.6.16
 -- PHP Version: 5.5.11
 
@@ -52,7 +52,7 @@ CREATE TABLE IF NOT EXISTS `funcionario` (
   `fun_data_nasc` date NOT NULL,
   `fun_tel` int(11) NOT NULL,
   `fun_email` varchar(100) CHARACTER SET armscii8 NOT NULL,
-  `dat_cadastro` date NOT NULL,
+  `fun_dat_cadastro` date NOT NULL,
   `fun_ende` int(11) NOT NULL,
   `fun_rg` varchar(100) CHARACTER SET armscii8 NOT NULL,
   `fun_senha` varchar(100) CHARACTER SET armscii8 NOT NULL,
